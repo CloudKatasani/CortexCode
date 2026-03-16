@@ -1,0 +1,3 @@
+This repository showcases hands‑on exploration of Snowflake Cortex Code, Snowflake’s AI‑driven intelligent coding agent designed to accelerate data engineering, analytics, and application development. The goal of this project is to help practitioners understand how Cortex Code can be applied across multiple practical use cases, how it behaves in real workflows, and how organizations can leverage it to modernize data platforms.
+Cortex Code provides an interactive, AI‑powered development experience—available through Snowsight and the Cortex Code CLI—capable of generating SQL, Python, documentation, tests, semantic models, and automation scripts.
+This repo serves as a learning and experimentation space for evaluating that capability across a variety of tasks.
